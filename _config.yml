@@ -1,0 +1,11 @@
+lang: ja
+title: ヒュエメ冬のネップリアンソロ企画
+description: "ネップリアンソロやる会" 
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
+theme: jekyll-theme-minimal
+
+
