@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
-
 # 秋のヒュエメネップリ企画
 
 ## 参加方法
@@ -31,7 +30,7 @@ layout: default
 * どちらかといえばヒュエメが好き
 ### !!注意事項!!
 * **恋人・友人関係は問いませんが、ヒュエメ以外の前提カプ描写はNGです**
-* 例) BA肉体関係ありきの描写。別のィン物と恋人関係であり、恋人の相談など
+* 例) BA肉体関係ありきの描写。別の人物と恋人関係であり、その恋人の相談など
 
 ## 当日の公開方法
 * ネップリ番号を一覧化したリストを公開
@@ -43,7 +42,7 @@ layout: default
     * 「秋のヒュエメネップリ」
 
 ### テンプレート
-* [http://geminiemet.html.xdomain.jp/net/anke.png](http://geminiemet.html.xdomain.jp/net/anke.png){:target="_blank" rel="noopener"}
+* http://geminiemet.html.xdomain.jp/ne/anke.png
 
 ## その他補足事項
 * 参加表明は必要ありません。締め切りまでにプリント予約番号の連絡のみ！
@@ -54,5 +53,9 @@ layout: default
     * 1枚ずつ登録orPDF(冊子登録可能ですが、順番にご注意ください)
 * 画像データの作り方やネットプリントの登録がわからないという場合
     * 主催にデータをぶん投げてください
+
+
+
+
 
 
