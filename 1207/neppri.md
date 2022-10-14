@@ -69,8 +69,8 @@ layout: default
     * 「冬のヒュエメネップリ」
 
 ### テンプレート
-TODO
-* http://geminiemet.html.xdomain.jp/ne/anke.png
+* <a href="http://geminiemet.html.xdomain.jp/net/ankehuyu.png">冬のネップリテンプレート</a> 
+    * リンク先の画像を保存->使用してください
 
 ## その他補足事項
 * 参加表明は必要ありません

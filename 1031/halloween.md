@@ -56,7 +56,8 @@ layout: default
     * 「秋のヒュエメネップリ」
 
 ### テンプレート
-* <a href="http://geminiemet.html.xdomain.jp/net/anke.png">ハロウィンネップリ企画テンプレート</a>
+* <a href="http://geminiemet.html.xdomain.jp/net/anke.png">ハロウィンネップリテンプレート</a>
+    * リンク先の画像を保存->使用してください
 
 ## その他補足事項
 * 参加表明は必要ありません。
